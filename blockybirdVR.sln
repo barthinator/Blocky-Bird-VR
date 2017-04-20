@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blockybirdVR", "Assembly-CSharp.csproj", "{4DD8C331-4A7F-E4A1-1CC4-71AC56260A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blockybirdVR", "Assembly-CSharp-Editor.csproj", "{BA516465-03E7-F9A9-F238-13C6CEB7CD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD8C331-4A7F-E4A1-1CC4-71AC56260A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD8C331-4A7F-E4A1-1CC4-71AC56260A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD8C331-4A7F-E4A1-1CC4-71AC56260A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD8C331-4A7F-E4A1-1CC4-71AC56260A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA516465-03E7-F9A9-F238-13C6CEB7CD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA516465-03E7-F9A9-F238-13C6CEB7CD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA516465-03E7-F9A9-F238-13C6CEB7CD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA516465-03E7-F9A9-F238-13C6CEB7CD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

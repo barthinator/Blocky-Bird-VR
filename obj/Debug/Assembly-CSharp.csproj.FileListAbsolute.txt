@@ -1,0 +1,58 @@
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEditor.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.xml
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEditor.xml
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\CSMM-7\Documents\Blocky Bird VR\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\CSMM-7\Documents\Blocky Bird VR\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\CSMM-7\Documents\Blocky Bird VR\obj\Debug\Assembly-CSharp.dll
+C:\Users\CSMM-7\Documents\Blocky Bird VR\obj\Debug\Assembly-CSharp.pdb
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEditor.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.xml
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEditor.xml
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\CSMM-3\Desktop\blockybirdVR\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\CSMM-3\Desktop\blockybirdVR\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\CSMM-3\Desktop\blockybirdVR\obj\Debug\Assembly-CSharp.dll
+C:\Users\CSMM-3\Desktop\blockybirdVR\obj\Debug\Assembly-CSharp.pdb
