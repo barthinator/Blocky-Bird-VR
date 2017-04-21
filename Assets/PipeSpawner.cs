@@ -36,12 +36,20 @@ public class PipeSpawner : MonoBehaviour {
 			//offsetLocation.localPosition = offset;
 			pipesList.Add ((GameObject)Instantiate (pipe, offset, Quaternion.Euler (new Vector3 (90.0f, 0.0f, 0.0f))));
 			pipesList.Add ((GameObject)Instantiate (pipe, offsetFlip, Quaternion.Euler (new Vector3 (-90.0f, 0.0f, 0.0f))));
+
 		} 
 
 		//I do not think that we will be able to despawn the pipes unless we have trigger between the pipes, because
 		//simply checking the position to see if it iterated a full pipe by a specific z value is inaccurate because update
 		//is only ran once per fram. Meaning that the value of the player could be above 40 but never exactly at 40 to where
 		//the condition will return true.
+
+		//foreach (GameObject g in pipesList) {
+		//	if (g.GetComponent<Rigidbody> () == null) {
+		//		g.AddComponent<Rigidbody> ().useGravity = false;
+		//	}
+		//}
+
 
 		//jk found out a way to do it XD
 

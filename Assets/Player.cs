@@ -23,6 +23,6 @@ public class Player : MonoBehaviour
 	}
 
 	void OnCollisionEnter(Collision col){
-		Debug.Log(col.collider.name);
+		Debug.Log("COOOOOLIilsosndof");
 	}
 }
