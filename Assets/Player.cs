@@ -25,4 +25,8 @@ public class Player : MonoBehaviour
 	void OnCollisionEnter(Collision col){
 		Debug.Log("COOOOOLIilsosndof");
 	}
+
+	void OnTriggerEnter(Collider col){
+		Debug.Log ("COllision");
+	}
 }
