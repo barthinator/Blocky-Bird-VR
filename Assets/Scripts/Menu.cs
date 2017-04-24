@@ -7,10 +7,15 @@ using UnityEngine.SceneManagement;
 public class Menu : MonoBehaviour {
 	public Canvas MainCanvas;
 	public Canvas OptionsCanvas;
+	public Transform spinner;
 
 	//Starts before the unity start method
 	void Awake(){
 		OptionsCanvas.enabled = false;
+	}
+
+	void Update(){
+		spinner.Rotate(0,0,40*Time.deltaTime);
 	}
 
 	public void OptionsOn(){
