@@ -6,6 +6,7 @@ public class FirstPersonCamera : MonoBehaviour {
 
 	public Transform target;
 	public Transform camera;
+	private bool touched = false;
 
 
 	// Use this for initialization
@@ -18,6 +19,12 @@ public class FirstPersonCamera : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		camera.transform.position = target.position;
-		target.transform.position += new Vector3(0,0,5) * Time.deltaTime;
+		if (!touched) {
+			target.transform.position += new Vector3 (0, 0, 5) * Time.deltaTime;
+		}
+	}
+
+	void OnCollisionEnter(Collision col){
+		touched = true;
 	}
 }
